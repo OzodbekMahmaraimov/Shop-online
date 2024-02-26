@@ -1,0 +1,50 @@
+.acaunt{
+    position: absolute;
+    left: 40em;
+    top: 3em;
+}
+
+.Fistname{
+    width: 500px;
+    border: none;
+}
+.Firtname1{
+    position: absolute;
+    margin-top:2em;
+}
+
+.lastname{
+    position: absolute;
+    margin-top:6em;
+}
+
+.Email{
+    position: absolute;
+    margin-top:10em;
+}
+
+.phone_number{
+    position: absolute;
+    margin-top:14em;
+}
+.password{
+    position: absolute;
+    margin-top:18em;
+}
+
+.Accc{
+    width: 500px;
+    position: absolute;
+    top: 28em;
+    height: 50px;
+}
+
+.regis{
+    width: 500px;
+    border: 3px solid purple;
+    background-color: white;
+    position: absolute;
+    top: 32em;
+    height: 40px;
+    border-radius: 5px;
+}
