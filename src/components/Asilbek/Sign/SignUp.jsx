@@ -30,8 +30,8 @@ function SignUp() {
                <input type="password" className="Fistname" placeholder="password"/>
                 <hr  />
                </div>
-               <Button color="danger"className="Accc" >Create Account</Button>
-               <button className="regis"><img src={google} alt="" /> Sign Up with Google</button>
+               <Button color="danger"className="Accc" ><a className="Up" href="">Create Account</a></Button>
+               <button className="regis"><img src={google} alt="..." />Sign Up with Google</button>
             </div>
         </>
     );

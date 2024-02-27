@@ -1,0 +1,36 @@
+.Login{
+    position: absolute;
+    left: 45em;
+    top: 9em;
+}
+
+.email{
+    position: absolute;
+    width: 500px;
+    border: none;
+    top: -7em;
+}
+
+.hr{
+    position: absolute;
+    width: 500px;
+    top: -5.5em;
+}
+
+.password{
+    position: absolute;
+    top: 2em;
+}
+.Button{
+    width: 100px;
+    position: absolute;
+    top: 17em;
+}
+
+.dis{
+    position: relative;
+    left: 20em;
+    top: 12.5em;
+    color: red;
+    text-decoration: none;
+}
