@@ -3,7 +3,7 @@ import React from 'react'
 const Yozuvlar = () => {
   return (
    <>
-   <div>asas</div>
+   <div></div>
 
    </>
   )
